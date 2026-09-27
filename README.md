@@ -37,13 +37,13 @@
 ## 📊 Gráfico do Github 
 
 <p align="center">
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucas-S-Cavalheiro&theme=dark" alt="Profile Summary">
+ <img src="![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucas-S-Cavalheiro&theme=dark&animation=fade&name=Lucas-S-Cavalheiro)">
 </p>
 
 ## ⚙️ Gráfico de linguagens
 
  <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucas-S-Cavalheiro&theme=dark">
+  <img src="![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucas-S-Cavalheiro&theme=dark&animation=fade)">
  </p>
 
 ## 📋 Desenvolvedor frontend e backend! (fullstack):
