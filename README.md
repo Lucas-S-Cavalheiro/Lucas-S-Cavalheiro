@@ -34,17 +34,17 @@
   <img align="center" alt="php" src="https://img.shields.io/badge/Php-20232A?style=for-the-badge&logo=php&logoColor=61DAFB"/>
 </div><br/>
 
-## 📊 Gráfico do Github 
+## 📊 Gráfico do Github
 
 <p align="center">
- <img src="![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucas-S-Cavalheiro&theme=dark&animation=fade&name=Lucas-S-Cavalheiro)">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucas-S-Cavalheiro&theme=dark&animation=fade&name=Lucas-S-Cavalheiro" />
 </p>
 
 ## ⚙️ Gráfico de linguagens
 
- <p align="center">
-  <img src="![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucas-S-Cavalheiro&theme=dark&animation=fade)">
- </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucas-S-Cavalheiro&theme=dark&animation=fade" />
+</p>
 
 ## 📋 Desenvolvedor frontend e backend! (fullstack):
 
