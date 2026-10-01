@@ -14,10 +14,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/_lc.lucky_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
   <a href="https://x.com/lc_lucky_" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />
   </a>
